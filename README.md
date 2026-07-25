@@ -4,7 +4,7 @@ Generates common username permutations from first, middle, and last names.
 
 ## Download
 
-Fetch only the script (not the full repo):
+Fetch the script:
 
 ```bash
 curl -O https://raw.githubusercontent.com/rajeshmantri2711/username_generator/main/username.py
