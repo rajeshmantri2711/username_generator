@@ -31,6 +31,6 @@ python username.py -i INFILE -o OUTFILE
 ## Examples
 
 ```bash
-python username.py -i names.txt -o usernames.txt
+python username.py -i usernames.txt -o potential_usernames.txt
 python username.py -N "John Michael Smith"
 ```
